@@ -1,4 +1,4 @@
-The main file used for this assignment and containing all of the relevant syntax is a jupyter file titled "pandaschallenge."
+The main file used for this assignment and containing all of the relevant syntax is a jupyter file titled "pandaschallenge" inside the PYCitySchools folder.
 
 All syntax created for this assignmetn was either self-generated or modified from code generated in class with the exception the following:
 - The district summary data frame was generated with the help of a learning assistant. However, no code was specifically given by the learning assistant. The input for that data frame was accidentally being put into a list instead of a dictionary. The learning assistant identified the mistake. 
